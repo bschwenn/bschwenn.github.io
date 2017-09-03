@@ -1,4 +1,4 @@
-/* Structure & Background
+/* Structure & Background 
 ----------------------------- */
 .wrapper {
   position: fixed;
@@ -141,31 +141,12 @@
 .email-link:focus {
   opacity: 1;
 }
-.social-link-item:hover{
-  opacity: 1;
-}
-.social-link-item-twitter {
-  margin-left: 0;
-  width: 21px;
-}
 .social-link-item-linkedin {
   background-position: -21px 0;
   width: 19px;
 }
 .social-link-item-github {
   background-position: -40px 0;
-  width: 18px;
-}
-.social-link-item-dribbble {
-  background-position: -58px 0;
-  width: 21px;
-}
-.social-link-item-behance {
-  background-position: -78px 0;
-  width: 26px;
-}
-.social-link-item-medium {
-  background-position: -105px 0;
   width: 18px;
 }
 
