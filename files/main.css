@@ -50,7 +50,7 @@
   margin-left: -186px;
   margin-top: -186px;
   background-image: url(circle.png);
-  background-size: 100%;
+  background-size: 100%;/*100%;*/
 }
 .triangle-pattern {
   position: fixed;
@@ -76,11 +76,12 @@
   font-style: italic;
   font-family: "freight-big-pro";
   margin-bottom: 0;
-  margin-top: 28px;
+  margin-top: 20px;
   text-transform: uppercase;
 }
 .byline {
   margin-top: 2px;
+  margin-bottom:10px;
   position: relative;
   z-index: 2;
   font-family: "brandon-grotesque";
@@ -102,10 +103,12 @@
 ----------------------------- */
 .social-links {
   position: fixed;
-  width: 475px;
+  width: 476px;
   left: 50%;
-  bottom: 50px;
-  margin-left: -237px;
+  bottom: 10px;
+  margin-left: -238px;
+  margin-top: .01%;
+  margin-bottom: 2;
   padding: 0;
   list-style-type: none;
 }
