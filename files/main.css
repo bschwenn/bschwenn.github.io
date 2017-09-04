@@ -1,4 +1,4 @@
-/* Structure & Background 
+/* Structure & Background
 ----------------------------- */
 .wrapper {
   position: fixed;
@@ -121,7 +121,7 @@
   height: 20px;
   background-size: 123px 20px;
   text-indent: -9999px;
-  margin-left: 15px;
+  margin-left: 4px;
   opacity: .8;
   -webkit-transition: all .1s ease-in;
 }
