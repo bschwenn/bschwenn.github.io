@@ -69,7 +69,7 @@
 .name {
   position: relative;
   z-index: 2;
-  font-size: 34px;
+  font-size: 36px;
   line-height: 1;
   letter-spacing: 0.26em;
   font-weight: 300;
@@ -81,7 +81,7 @@
 }
 .byline {
   margin-top: 2px;
-  margin-bottom:10px;
+  margin-bottom:12px;
   position: relative;
   z-index: 2;
   font-family: "brandon-grotesque";
@@ -131,7 +131,7 @@
 }
 .email-link {
   color: #fff;
-  font-size: 15px;
+  font-size: 17px;
   text-decoration: none;
   font-family: "brandon-grotesque";
   opacity: .8;
