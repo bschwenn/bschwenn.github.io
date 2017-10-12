@@ -1,5 +1,5 @@
-/* Structure & Background
------------------------------ */
+/* structure/background */
+
 .wrapper {
   position: fixed;
   top: 0;
@@ -57,6 +57,8 @@
   background-size: 100%;
 }
 
+/* text */
+
 .name {
   position: relative;
   z-index: 2;
@@ -65,7 +67,7 @@
   letter-spacing: 0.26em;
   font-weight: 300;
   font-style: italic;
-  font-family: "palantino-linotype";
+  font-family: Palatino, sans-serif;
   margin-bottom: 0;
   margin-top: 20px;
   text-transform: uppercase;
@@ -76,7 +78,7 @@
   margin-bottom:12px;
   position: relative;
   z-index: 2;
-  font-family: "palantino-linotype";
+  font-family: Palatino, sans-serif;
   font-size: 13px;
   line-height: 2.2;
   font-weight: 300;
@@ -92,7 +94,7 @@
   border-bottom-width: 1px;
 }
 
-/* Social Links */
+/* links */
 
 .social-links {
   position: fixed;
@@ -126,7 +128,7 @@
   color: #fff;
   font-size: 17px;
   text-decoration: none;
-  font-family: "palantino-linotype";
+  font-family: Palatino, sans-serif;
   opacity: .8;
   -webkit-transition: opacity .1s ease-in;
 }
